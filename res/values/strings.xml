@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Classified</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="need">Need</string>
+    <string name="sell">Sell</string>
+    <string name="toggle_turn_on">Turn On</string>
+    <string name="toggle_turn_off">Turn Off</string>
+    <string name="title_activity_check">Check</string>
+    <string name="adsucess">Ad Has Been Posted Sucessfully</string>
+    <string name="adfailure">Ad Has Been Not Posted. Try Again</string>
+    <string name="shareddetails">Your Profile Email And Phone No Will Be Used By Buyer To Contact You</string>
+    <string name="title_activity_my_ads">MyAdsActivity</string>
+    <string name="title_activity_my_needs">MyNeedsActivity</string>
+    <string name="title_activity_my_items">MyItemsActivity</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+
+</resources>

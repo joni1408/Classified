@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/blue">
+    
+    <ImageButton 
+        android:id="@+id/favourite"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fav"/>
+    <ImageButton 
+        android:id="@+id/myads"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fav"/>
+   <ImageButton 
+       android:id="@+id/myneeds"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fav"/>
+    <ImageButton 
+        android:id="@+id/myitems"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fav"/>
+    <ImageButton 
+        android:id="@+id/home"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fav"/>
+
+</LinearLayout>
